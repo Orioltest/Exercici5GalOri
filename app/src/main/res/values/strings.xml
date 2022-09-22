@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Exercici5GalOri</string>
+    <string name="btn_send">Send</string>
+    <string name="msg">Message Received</string>
+</resources>
