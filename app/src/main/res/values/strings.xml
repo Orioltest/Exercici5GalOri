@@ -2,4 +2,7 @@
     <string name="app_name">Exercici5GalOri</string>
     <string name="btn_send">Send</string>
     <string name="msg">Message Received</string>
+    <string name="button_second">Reply</string>
+    <string name="editText_second">Enter Your Reply Here</string>
+    <string name="text_header_reply">Reply Received</string>
 </resources>
